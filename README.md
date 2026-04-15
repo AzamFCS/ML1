@@ -4,4 +4,4 @@
 В репозитории представлены выполененные домашние задания по курсу:
 * [Домашнее задание по основам Pandas и Numpy](https://github.com/AzamFCS/ML1/tree/main/hw1)
 * [Домашнее задание по линейной регрессии](https://github.com/AzamFCS/ML1/tree/main/hw2)
-* [Домашнее задание по основам DL]()
+* [Домашнее задание по основам DL](https://github.com/AzamFCS/ML1/tree/main/hw4)
